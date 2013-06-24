@@ -1,0 +1,46 @@
+.\picture\mainchar_battle.bmp
+270
+300
+.\picture\darkmagic.bmp
+.\picture\lightmagic.bmp
+4
+280
+200
+.\picture\battle_bg00.bmp
+.\picture\battle_bg01.bmp
+.\picture\battle_bg02.bmp
+.\picture\battle_bg03.bmp
+.\picture\cursor.bmp
+7
+450
+290
+Dark Knight
+.\picture\mon00.bmp
+460
+320
+Rageful Bull
+.\picture\mon01.bmp
+450
+300
+Ancient Demon
+.\picture\mon02.bmp
+460
+320
+Far East Samurai
+.\picture\mon03.bmp
+450
+300
+Vampire Noble
+.\picture\mon04.bmp
+480
+330
+Grim Reaper
+.\picture\mon05.bmp
+490
+330
+Lizard Warrior
+.\picture\mon06.bmp
+360
+280
+Lord of Dark Mind
+.\picture\finalboss.bmp

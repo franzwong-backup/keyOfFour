@@ -1,0 +1,10 @@
+.\picture\maintitle.bmp
+0
+.\picture\option.bmp
+250
+.\picture\cursor.bmp
+150
+260
+.\music\thunder.wav
+.\music\anvil.wav
+.\music\menu.mp3

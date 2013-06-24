@@ -1,0 +1,2 @@
+.\text\opening.txt
+.\music\opening.mp3

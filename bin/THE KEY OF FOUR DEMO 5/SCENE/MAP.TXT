@@ -1,0 +1,10 @@
+4
+.\map\map0.txt
+.\map\map1.txt
+.\map\map2.txt
+.\map\map3.txt
+.\picture\road.bmp
+.\picture\background.bmp
+.\picture\mainchar.bmp
+.\music\type.wav
+.\music\map.mp3
